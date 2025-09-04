@@ -1,4 +1,4 @@
-# <img src="https://github.com/DongLab-DebTools/.github/blob/main/images/donglab-logo.png" width="30px" height="30px"> DongLab-DevTools
+# <img src="https://github.com/DongLab-DevTools/.github/blob/main/blob/main/images/donglab-logo.png" width="30px" height="30px"> DongLab-DevTools
 
 > 다양한 개발 편의 기능들을 모아놓은 Repository
 
