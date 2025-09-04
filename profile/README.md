@@ -6,8 +6,8 @@
 <br>
 <br>
 
-직접 개발한 다양한 개발 편의 기능들을 모아둔 저장소입니다.
-
+직접 개발한 다양한 개발 편의 기능들을 모아둔 저장소입니다.  
+작은 자동화와 편의 기능을 통해 **더 빠르고, 더 안정적인 개발 환경**을 만드는 것을 목표로 합니다.
 
 ### 주요 기능
 - [Android-Dependency-Tree-Diff-Viewer](https://github.com/DongLab-DevTools/Android-Dependency-Tree-Diff-Viewer)  
