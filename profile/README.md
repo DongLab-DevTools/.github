@@ -4,6 +4,6 @@
 
 <p align="center">
   <a href="">
-    <img src="https://img.shields.io/badge/Blog-tistory-00D3F2?style=for-the-badge&link=https%3A%2F%2Fhttps://dongx2.tistory.com/" />
+    <img src="https://img.shields.io/badge/Blog-tistory-00D3F2?style=for-the-badge&link=https://dongx2.tistory.com/" />
   </a>
 </p>
