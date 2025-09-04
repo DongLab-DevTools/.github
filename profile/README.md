@@ -13,5 +13,5 @@
 - [Android-Dependency-Tree-Diff-Viewer](https://github.com/DongLab-DevTools/Android-Dependency-Tree-Diff-Viewer)  
   Gradle 의존성 변경 사항을 시각적으로 쉽게 확인 할 수 있는 사이트
 
-- [NKLCB-Hub](https://github.com/DongLab-DevTools/Slack-Message-Templates)  
+- [NKLCB-Hub](https://github.com/DongLab-DevTools/NKLCB-Hub)  
   백준 문제를 Github에 자동으로 업로드해주는 익스텐션
