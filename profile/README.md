@@ -10,8 +10,11 @@
 작은 자동화와 편의 기능을 통해 **더 빠르고, 더 안정적인 개발 환경**을 만드는 것을 목표로 합니다.
 
 ### 주요 기능
-- [Android-Dependency-Tree-Diff-Viewer](https://github.com/DongLab-DevTools/Android-Dependency-Tree-Diff-Viewer)  
-  Gradle 의존성 변경 사항을 시각적으로 쉽게 확인 할 수 있는 사이트
+[ClassNameViewer](https://github.com/DongLab-DevTools/ClassNameViewer)  
+  - Activity/Fragment의 클래스명을 화면에 오버레이로 표시해주는 디버그 라이브러리
 
-- [NKLCB-Hub](https://github.com/DongLab-DevTools/NKLCB-Hub)  
-  백준 문제를 Github에 자동으로 업로드해주는 익스텐션
+[Android-Dependency-Tree-Diff-Viewer](https://github.com/DongLab-DevTools/Android-Dependency-Tree-Diff-Viewer)  
+  - Gradle 의존성 변경 사항을 시각적으로 쉽게 확인 할 수 있는 사이트
+
+[NKLCB-Hub](https://github.com/DongLab-DevTools/NKLCB-Hub)  
+  - 백준 문제를 Github에 자동으로 업로드해주는 익스텐션
