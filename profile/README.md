@@ -10,8 +10,12 @@
 작은 자동화와 편의 기능을 통해 **더 빠르고, 더 안정적인 개발 환경**을 만드는 것을 목표로 합니다.
 
 ### 주요 기능
-[ClassNameViewer](https://github.com/DongLab-DevTools/ClassNameViewer)  
+[ScreenNameViewer](https://github.com/DongLab-DevTools/ScreenNameViewer)  
   - 현재 화면의 Activity/Fragment의 클래스명을 화면에 오버레이로 표시해주는 디버그 라이브러리
+
+[ScreenNameViewer For Compose](https://github.com/DongLab-DevTools/ScreenNameViewer-For-Compose)  
+  - Compose용 ScreenNameViewer 라이브러리
+  - Compose의 경우 Screen Route를 우측 상단에 오버레이로 표시 (Activity/Fragment도 포함)
 
 [Android-Dependency-Tree-Diff-Viewer](https://github.com/DongLab-DevTools/Android-Dependency-Tree-Diff-Viewer)  
   - Gradle 의존성 변경 사항을 시각적으로 쉽게 확인 할 수 있는 사이트
