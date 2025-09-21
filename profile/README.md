@@ -22,3 +22,10 @@
 
 [NKLCB-Hub](https://github.com/DongLab-DevTools/NKLCB-Hub)  
   - 백준 문제를 Github에 자동으로 업로드해주는 익스텐션
+
+<br>
+
+### 업로드 예정
+- 네트워크 로그 확인 기능
+- 서버 상태 체크 기능
+- FCM 테스트 푸시 발송 기능
