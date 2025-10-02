@@ -17,7 +17,7 @@
   - ScreenNameViewer의 Compose 확장 버전
   - Activity/Framgent 및 Compose Screen Route를 우측 상단에 오버레이로 표시해주는 디버그 라이브러리
 
-[Android-Dependency-Tree-Diff-Viewer](https://github.com/DongLab-DevTools/Android-Dependency-Tree-Diff-Viewer)  
+[Android-Dependecy-Tree-Diff-Viewer](https://github.com/DongLab-DevTools/Android-Dependecy-Tree-Diff-Viewer)  
   - Gradle 의존성 변경 사항을 시각적으로 쉽게 확인 할 수 있는 사이트
 
 [NKLCB-Hub](https://github.com/DongLab-DevTools/NKLCB-Hub)  
