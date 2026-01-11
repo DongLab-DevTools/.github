@@ -1,5 +1,5 @@
 # DongLab-DevTools
-<a href="https://dongx2.tistory.com/">
+<a href="https://dongx2.tistory.com/category/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C/%EA%B0%9C%EB%B0%9C%20%EB%8F%84%EA%B5%AC">
   <img src="https://img.shields.io/badge/Blog-tistory-00D3F2?style=for-the-badge&link=https://dongx2.tistory.com/" />
 </a>
 
