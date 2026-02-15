@@ -20,7 +20,7 @@
 [Android Crash Report Activity](https://github.com/DongLab-DevTools/Android-Crash-Report-Activity)
   - 크래시 정보를 화면으로 보여주는 라이브러리
 
-[Android-Dependency-Tree-Diff-Viewer](https://github.com/DongLab-DevTools/Android-Dependency-Tree-Diff-Viewer)  
+[Android-Dependecy-Tree-Diff-Viewer](https://github.com/DongLab-DevTools/Android-Dependecy-Tree-Diff-Viewer)  
   - Gradle 의존성 변경 사항을 시각적으로 쉽게 확인 할 수 있는 사이트
 
 [NKLCB-Hub](https://github.com/DongLab-DevTools/NKLCB-Hub)  
