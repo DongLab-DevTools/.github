@@ -16,9 +16,9 @@
 
 <br>
 
-## 🧩 주요 기능
+## Screen Debugging
 
-### Screen Debugging
+<br>
 
 <p>
   <img src="https://img.shields.io/badge/Android-XML-3DDC84?style=flat-square&logo=android&logoColor=white" />
@@ -71,7 +71,9 @@
 
 <br>
 
-### Development Utilities
+## Development Utilities
+
+<br>
 
 <p>
   <img src="https://img.shields.io/badge/Android-Crash_Report-DC2626?style=flat-square&logo=android&logoColor=white" />
